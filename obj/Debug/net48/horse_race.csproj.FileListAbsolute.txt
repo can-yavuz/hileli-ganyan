@@ -1,0 +1,9 @@
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.csproj.AssemblyReference.cache
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.csproj.SuggestedBindingRedirects.cache
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.Form1.resources
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.Properties.Resources.resources
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.csproj.GenerateResource.cache
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.AssemblyInfoInputs.cache
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.AssemblyInfo.cs
+C:\Users\Can Yavuz\Desktop\horse_race\obj\Debug\net48\horse_race.csproj.CoreCompileInputs.cache
